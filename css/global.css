@@ -20,3 +20,9 @@ nav {
     right: 0;
     text-align: center;
 }
+
+nav a {
+    color: rgb(253, 250, 40);
+    text-decoration: none;
+    padding: 12px 20px;
+}
