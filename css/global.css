@@ -1,6 +1,22 @@
+/*Estilo básico del body*/
 body {
     background-color:rgb(1, 37, 13);
     color: rgb(252, 249, 249);
     margin-top: 30px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Encabezados*/
+h1, h2, h3 {
+    color: rgb(255, 56, 56);
+}
+
+/*Barra de navegación y sus enlaces*/
+nav {
+    background-color: rgb(2, 94, 17);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
 }
