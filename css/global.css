@@ -35,4 +35,7 @@ footer {
     text-align: center;
     background-color: rgb(2, 94, 17);
     font-size: 0.9rem;
+    a {
+        color: rgb(253, 250, 40);
+    }
 }
