@@ -39,3 +39,17 @@ footer {
         color: rgb(253, 250, 40);
     }
 }
+
+@media print {
+    body {
+        background-color: #FFFFFF;
+        color: #000000;
+        margin-top: 0;
+    }
+    h1, h2, h3 {
+        color: #000000;
+    }
+    nav {
+        display: none;
+    }
+}
